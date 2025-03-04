@@ -1,4 +1,4 @@
-module github.com/loggerhead/enumer
+module github.com/peernova/enumer
 
 go 1.24
 
